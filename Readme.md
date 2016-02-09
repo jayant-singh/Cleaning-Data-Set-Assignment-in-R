@@ -75,12 +75,17 @@ The goal of this function is to first select all the relevant features,(**mean a
 The goal of this function is to take the data set obtained in step 4 of the assignment, and use some strategies (melting and dcasting) to find the average of the each variable for each user and each activity. The output of this function is assigned to data frame, called **data_ID_activity_mean**. Some of the rows and few columns of the data frame  are shown below;
 
 
+
+
+
+
+
 |   ID       |  Activity |   tBodyAcc-mean()-X   |  tBodyAcc-mean()-Y  |  tBodyAcc-mean()-Z |
-|
-  --------  |   --------|   ------------------- |   ----------------  |  ------------------| 
-
+|            |           |                       |                     |                    |  
+|  --------  |   --------|   ------------------- |   ----------------  |  ------------------| 
+|            |           |                       |                     |                    | 
 |  1         | LAYING    |       0.2215982       |  -0.040513953       |   -0.1132036       |
-
+|            |           |                       |                     |                    | 
 |  1         | SITTING   |      0.2612376        |  -0.001308288       |   -0.1045442       |
 
 
