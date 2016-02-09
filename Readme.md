@@ -3,7 +3,7 @@
 
 
 This project implements our skills in asessing and making a data set tidy using data manipulation skills in R. The main file is called 
-**run_analysis.R.**
+run_analysis.R.
 
 
 
