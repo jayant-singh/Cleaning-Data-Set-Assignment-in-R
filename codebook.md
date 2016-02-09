@@ -29,12 +29,12 @@ Here:
    2. test_id refers to subject id in test set,
    3. activity_train refers to the activitylabels in training set,
    4. activity_test refers to activitylabels in test set,
-   5. features_text refers to entire list of features, i.e.mesurements. There are 561 measurements, which were taken on the subjects.
+   5. features_text refers to entire list of features, i.e.measurements. There are 561 measurements, which were taken on the subjects.
 
 ## Helper Functions ##
 
 
-To avoid repetition of code and to make the code more readable, several auxiliary functions were implmented. They are *function_assign.R*,*strip.R*, and *shaping.R*.  These functions have been called in the main program,** run_analysis.R**. For more details regaridng these functions, please refer to the readme.md.
+To avoid repetition of code and to make the code more readable, several auxiliary functions were implmented. They are *function_assign.R*,*strip.R*, and *shaping.R*.  These functions have been called in the main program,**run_analysis.R**. For more details regaridng these functions, please refer to the readme.md.
 
 
 ## Data Manipulation ##
