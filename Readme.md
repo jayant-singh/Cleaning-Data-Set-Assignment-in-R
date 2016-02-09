@@ -81,12 +81,8 @@ The goal of this function is to take the data set obtained in step 4 of the assi
 
 
    ID         Activity    tBodyAcc-mean()-X     tBodyAcc-mean()-Y    tBodyAcc-mean()-Z 
-                                                                                         
-  --------  -----------  -------------------     ----------------    
-                                                                                       
-  1          LAYING          0.2215982            -0.040513953          -0.1132036       
-                                                                                     
-  1          SITTING         0.2612376            -0.001308288          -0.1045442       
+  -----      ---------    ------------------   -------------------  -------------------                                                  1          LAYING          0.2215982            -0.040513953          -0.1132036       
+   1          SITTING         0.2612376            -0.001308288          -0.1045442       
 
 
 
