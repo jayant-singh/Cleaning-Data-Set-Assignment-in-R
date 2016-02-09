@@ -75,7 +75,7 @@ The transformation of data consists of following steps:
 ##Format##
 
 
-     A data frame with 180 observations on 68 variables. Here **"ID"** is a numeric vector, **"Activity"** is a 
+     The final data set is a  data frame with 180 observations on 68 variables. Here **ID** is a numeric vector, **Activity** is a
 
      character vector, and rest variables are numeric vectors.
 
