@@ -1,4 +1,4 @@
-         # Getting and Cleaning Data Course Project #
+         #Getting and Cleaning Data Course Project#
          
          
             
@@ -63,14 +63,11 @@ The transformation of data consists of following steps:
 
 ##Example##
 
-
-|   ID       |  Activity |   tBodyAcc-mean()-X   |  tBodyAcc-mean()-Y  |  tBodyAcc-mean()-Z |
-|
-  --------  |   --------|   ------------------- |   ----------------  |  ------------------| 
-
-|  1         | LAYING    |       0.2215982       |  -0.040513953       |   -0.1132036       |
-
-|  1         | SITTING   |       0.2612376       |  -0.001308288       |   -0.1045442       |
+  ID      Activity        tBodyAcc-mean()-X     tBodyAcc-mean()-Y      tBodyAcc-mean()-Z
+| ----- | ----------- |  -------------------- | ------------------- |  ------------------
+|  1    |     LAYING  |        0.2215982      |    -0.040513953     |     -0.1132036    
+|       |             |                       |                     |
+|  1    |    SITTING  |        0.2612376      |    -0.001308288     |    -0.1045442 
 
 
      
